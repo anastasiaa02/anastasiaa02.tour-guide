@@ -1,0 +1,99 @@
+body {
+	padding-top: 15px;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+.blog-footer {
+  padding: 2.5rem 0;
+  color: black;
+  text-align: center;
+  background-color: white;
+}
+h2 {
+	margin-top: 10%;
+	font-size: 20pt;
+}
+.featurette-heading1 {
+	font-size: 30pt;
+	margin-top: 20%;
+}
+.lead1 {
+    font-size: 13pt;
+}
+.lead2 {
+	font-size: 11pt;
+}
+.nav-link {
+	color: black !important;
+}
+.nav-link:hover {
+	color: grey !important;
+}
+.navbar-brand {
+	color: black !important;
+	font-weight: 500;
+}
+.navbar-brand:hover {
+	color: grey !important;
+}
+h1 {
+	font-size: 20pt;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+.forms {
+	padding-left: 200px;
+	padding-right: 200px;
+}
+.icon2 {
+	padding: 5px;
+	border-radius: 50px;
+	border-width: 1px;
+	border-style: solid;
+	margin-bottom: 20px;
+}
+.topic {
+	margin-bottom: 10px;
+}
+nav {
+	padding: 30px;
+}
+.icon1 {
+	margin-left: 20px;
+}
+.icon3 {
+	margin-bottom: 30px;
+}
+.icon4 {
+	margin-bottom: 30px;
+	margin-top: 40px;
+}
+h6 {
+	margin-bottom: 30px;
+}
+.text {
+	margin-bottom: 60px;
+}
+.btn {
+	margin-bottom: 15px;
+}
+.contact {
+	margin-top: 20px;
+	margin-bottom: 8px;
+}
+.checkbox {
+	margin-top: 20px;
+}
+label {
+	font-weight: 500;
+}
+.none {
+	font-weight: 400;
+}
+.gallery1 {
+	padding-right: 30px;
+}
+.navbar-toggler {
+	background-color: black;
+}
